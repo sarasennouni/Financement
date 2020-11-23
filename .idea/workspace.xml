@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93869610-0d66-40cf-a7d4-3884d3e010ae" name="Default Changelist" comment="" />
+    <list default="true" id="93869610-0d66-40cf-a7d4-3884d3e010ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/contactUs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kekmLHu8UARpvadvwYdNZv4nbn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,10 +44,37 @@
       <option name="presentableId" value="Default" />
       <updated>1606068613230</updated>
       <workItem from="1606068618284" duration="536000" />
+      <workItem from="1606139421526" duration="2066000" />
+      <workItem from="1606157107682" duration="3321000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="428" width="261" height="264" key="Github.ShareDialog" timestamp="1606162361127">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="509" y="428" width="261" height="264" key="Github.ShareDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1606162361127" />
+    <state x="240" y="264" key="Vcs.Push.Dialog.v2" timestamp="1606162393954">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="240" y="264" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1606162393954" />
+    <state x="305" y="242" key="run.anything.popup" timestamp="1606160521261">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="305" y="242" key="run.anything.popup/0.23.1920.1002@0.23.1920.1002" timestamp="1606160521261" />
   </component>
 </project>
