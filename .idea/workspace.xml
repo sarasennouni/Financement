@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93869610-0d66-40cf-a7d4-3884d3e010ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/contactUs.js" afterDir="false" />
+    <list default="true" id="93869610-0d66-40cf-a7d4-3884d3e010ae" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/pages/connecter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/documentaire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/financement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/livrable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/signUp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contactUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contactUs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +50,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,8 +65,17 @@
       <updated>1606068613230</updated>
       <workItem from="1606068618284" duration="536000" />
       <workItem from="1606139421526" duration="2066000" />
-      <workItem from="1606157107682" duration="3321000" />
+      <workItem from="1606157107682" duration="4656000" />
+      <workItem from="1606207969724" duration="6214000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1606162482595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606162482595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,16 +91,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="509" y="428" width="261" height="264" key="Github.ShareDialog" timestamp="1606162361127">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="509" y="428" width="261" height="264" key="Github.ShareDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1606162361127" />
-    <state x="240" y="264" key="Vcs.Push.Dialog.v2" timestamp="1606162393954">
+    <state x="240" y="264" key="Vcs.Push.Dialog.v2" timestamp="1606162486606">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="240" y="264" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1606162393954" />
+    <state x="240" y="264" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1606162486606" />
     <state x="305" y="242" key="run.anything.popup" timestamp="1606160521261">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
